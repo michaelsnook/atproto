@@ -1130,7 +1130,26 @@ const slurs = [
   'wetbacks',
   'yid',
   'yids',
+
+  // common slurs in Indian subcontinent
+  'avisaari',
+  'avusaari',
+  'bajaari',
+  'bhand',
+  'bhangi',
+  'chamar',
+  'chandaal',
+  'chappri',
+  'chinki',
+  'dhobi',
+  'kallu',
+  'kanjar',
+  'mahar',
+  'malech',
+  'pariah',
+  'thevadiya',
 ]
+
 
 export const reservedSubdomains: Record<string, boolean> = [
   ...atpSpecific,
